@@ -1,2 +1,4 @@
 # hello-word
-tutorial
+//tutorial
+
+enemyArmy = EnemyArmy.getInstance();
